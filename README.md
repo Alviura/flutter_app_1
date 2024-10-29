@@ -1,4 +1,4 @@
-# flutter_application_1
+# flutter_app_1
 
 A new Flutter project.
 
@@ -6,11 +6,9 @@ A new Flutter project.
 
 This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+### Description of the files in this repo
+1. pubspec.yaml -> specifies basic information about the app, such as the current versio, its dependencies, and the assets with which it will ship
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+2. analysis_options.yaml -> determines how strict flutter should be when analyzing your code. 
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This file configures the analyzer, which statically analyzes Dart code to check for errors, warnings, and lints.
